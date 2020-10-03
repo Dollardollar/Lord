@@ -7,4 +7,4 @@ pkg upgrade...
 pkg install git..
 pkg install curl..
 pkg install wget..pkg install nmap..
-git clone https://github.com/Dollardollar/metasploit-framework.wiki.git
+git clone https://github.com/Dollardollar/metasploit-framework
